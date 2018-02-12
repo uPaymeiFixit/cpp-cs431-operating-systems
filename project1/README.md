@@ -2,9 +2,11 @@
 
 ## Instructions
 ### Compile
-`cd src`
-`javac Menu.java`
+```
+cd src
+javac Menu.java
+```
 ### Run
 `java Menu`
 
-![image](https://user-images.githubusercontent.com/1683528/36086765-0396d898-0f83-11e8-830b-42076183a002.png)
+![image](https://user-images.githubusercontent.com/1683528/36087140-94faca36-0f85-11e8-8c7c-b4cbc7bec4b6.png)
