@@ -2,6 +2,7 @@
 
 ## Instructions
 ### Compile
+`cd src`
 `javac Menu.java`
 ### Run
 `java Menu`
